@@ -49,7 +49,6 @@ suricata.yaml
 
 ## Lab Topology
 
----
 
 < img src=network.png >
 
